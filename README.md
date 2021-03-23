@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @petelincek
-- 👀 I’m interested in interessting projects
-- 🌱 I’m currently learning Python.
-
+- 👋 Hello there, I’m @petelincek
+- 👀 I’m interested in doing stuff with computers
+- 🌱 I’m currently learning Python (and no, I don't mean the snake ;)
